@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.skills {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.imagen {
+    text-align: center;
+    margin: 10px;
+}
+.imagen img 
+{
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
